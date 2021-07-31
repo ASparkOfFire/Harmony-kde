@@ -38,10 +38,10 @@
      showguides="false"
      height="48px"
      width="48px"
-     inkscape:window-y="38"
-     inkscape:window-x="0"
-     inkscape:window-height="938"
-     inkscape:window-width="1920"
+     inkscape:window-y="36"
+     inkscape:window-x="64"
+     inkscape:window-height="1044"
+     inkscape:window-width="1856"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
@@ -454,17 +454,17 @@
        style="opacity:0.45945943" />
     <g
        inkscape:label="#decoration-bottom"
-       transform="translate(-215,9)"
+       transform="matrix(1,0,0,1.142857,-215,-30.571408)"
        id="decoration-bottom">
       <path
          id="path6217-8"
-         style="opacity:0.5;fill:url(#linearGradient5688);fill-opacity:1;stroke:none;stroke-width:1.0058651"
-         d="M 110 209 L 110 294 L 255 294 L 255 209 L 110 209 z "
+         style="opacity:0.5;fill:url(#linearGradient5688);fill-opacity:1;stroke:none;stroke-width:1.00587"
+         d="m 110,209 v 85 h 145 v -85 z"
          transform="translate(215,81)" />
       <path
          id="path6211-7"
          style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
-         d="M 110 196 L 110 208 L 110 209 L 255 209 L 255 208 L 255 196 L 110 196 z "
+         d="m 110,196 v 12 1 h 145 v -1 -12 z"
          transform="translate(215,81)" />
     </g>
     <path
@@ -510,17 +510,17 @@
     </g>
     <g
        inkscape:label="#decoration-inactive-bottom"
-       transform="translate(145,9.07798)"
+       transform="matrix(1,0,0,1.142857,145,-30.482267)"
        id="decoration-inactive-bottom">
       <path
          id="path6217-8-2"
-         style="opacity:0.2;fill:url(#linearGradient5688-2);fill-opacity:1;stroke:none;stroke-width:1.0058651"
-         d="M 470 209 L 470 294 L 615 294 L 615 209 L 470 209 z "
+         style="opacity:0.2;fill:url(#linearGradient5688-2);fill-opacity:1;stroke:none;stroke-width:1.00587"
+         d="m 470,209 v 85 h 145 v -85 z"
          transform="translate(-145,80.92202)" />
       <path
          id="path6211-7-5"
          style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
-         d="M 470 196 L 470 208 L 470 209 L 615 209 L 615 208 L 615 196 L 470 196 z "
+         d="m 470,196 v 12 1 h 145 v -1 -12 z"
          transform="translate(-145,80.92202)" />
     </g>
     <path
@@ -567,11 +567,11 @@
     <g
        inkscape:label="#decoration-bottomleft"
        id="decoration-bottomleft"
-       transform="translate(-385,-4.000015)">
+       transform="matrix(1,0,0,1.142857,-385,-45.428567)">
       <path
          id="rect7023-1"
          style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001"
-         d="M 80 196 L 80 203 C 80 206.324 82.676 209 86 209 L 110 209 L 110 208 L 110 196 L 81 196 L 80 196 z "
+         d="m 80,196 v 7 c 0,3.324 2.676,6 6,6 h 24 v -1 -12 H 81 Z"
          transform="translate(385,94.000015)" />
       <g
          id="hrh-6"
@@ -580,7 +580,7 @@
         <path
            id="rect5099-9-5"
            style="opacity:0.5;fill:url(#radialGradient965);fill-opacity:1;stroke:none"
-           d="M 5 196 L 5 294 L 110 294 L 110 209 L 86 209 C 82.676 209 80 206.324 80 203 L 80 196 L 5 196 z "
+           d="m 5,196 v 98 H 110 V 209 H 86 c -3.324,0 -6,-2.676 -6,-6 v -7 z"
            transform="matrix(1,0,0,1.0006794,220,104.7377)" />
         <g
            inkscape:label="#g6297"
@@ -592,11 +592,12 @@
       </g>
     </g>
     <g
-       id="decoration-inactive-bottomleft">
+       id="decoration-inactive-bottomleft"
+       transform="matrix(1,0,0,1.142857,0,-40.8571)">
       <path
          id="path4207"
          style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
-         d="M 440 196 L 440 203 C 440 206.324 442.676 209 446 209 L 470 209 L 470 208 L 470 196 L 441 196 L 440 196 z "
+         d="m 440,196 v 7 c 0,3.324 2.676,6 6,6 h 24 v -1 -12 h -29 z"
          transform="translate(0,90)" />
       <g
          id="hrh-3"
@@ -605,7 +606,7 @@
         <path
            id="rect5099-9-6"
            style="opacity:0.2;fill:url(#radialGradient967);fill-opacity:1;stroke:none"
-           d="M 365 196 L 365 294 L 470 294 L 470 209 L 446 209 C 442.676 209 440 206.324 440 203 L 440 196 L 365 196 z "
+           d="m 365,196 v 98 h 105 v -85 h -24 c -3.324,0 -6,-2.676 -6,-6 v -7 z"
            transform="matrix(1,0,0,1.0006794,-140,104.67515)" />
         <g
            inkscape:label="#g6297"
